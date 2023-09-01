@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">KHArCHA</string>
+    <string name="monthly_budget">Monthly Budget</string>
+    <string name="transaction">Transaction</string>
+    <string name="add_button">add Button</string>
+    <string name="label">label</string>
+    <string name="description">Description</string>
+    <string name="amount_of_expenses">Amount Of Expenses</string>
+    <string name="enter_the_expenses">Enter the Expenses</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="_3000">रु 3000</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="_600">रु 600</string>
+    <string name="budget">Budget/बजेट</string>
+    <string name="expenses">Expenses/खर्च</string>
+    <string name="this_is_the_close_button">this is the close Button</string>
+    <string name="detailed_of_transaction">Detailed Of Transaction</string>
+    <string name="amount_rs">Amount(Rs)</string>
+    <string name="update_transaction">Update Transaction</string>
+</resources>
