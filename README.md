@@ -33,7 +33,7 @@ To get a local copy of the project up and running, follow these steps:
    ```bash
    git clone https://github.com/devpaurakh/KHArCHA.git
 
-##Screenshots
+## Screenshots
 <img width="300" alt="Screenshot 2024-09-26 at 1 06 49 pm" src="https://github.com/user-attachments/assets/da6f4b3e-1c85-4489-a698-34586d641a95">
 <img width="300" alt="Screenshot 2024-09-26 at 1 06 39 pm" src="https://github.com/user-attachments/assets/dd325c9c-585d-4d1e-b469-4ba265270522">
 <img width="300" alt="Screenshot 2024-09-26 at 1 05 55 pm" src="https://github.com/user-attachments/assets/67dea550-f607-4bdf-9c5f-c0bdbcc1142a">
